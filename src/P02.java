@@ -11,3 +11,15 @@ public class P02 {
 
 // gönderiyoruz
 
+// önce
+
+// git add .
+
+// sonra
+
+//git commit
+
+// sonra
+
+// git push
+
