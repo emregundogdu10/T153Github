@@ -7,4 +7,7 @@ public class P02 {
 }
 
 
+// yorum satırını githuba yollıcaz
+
+// gönderiyoruz
 
